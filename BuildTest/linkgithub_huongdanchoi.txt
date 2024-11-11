@@ -1,0 +1,4 @@
+link project GitHub: https://github.com/giomuahe/tankarena
+hướng dẫn chơi :
+PC : Dùng các phím A, W, S, D để di chuyển, chuột trái để tấn công
+Android : Dùng các nút bấm trên màn hình để di chuyển và tấn công
